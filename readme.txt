@@ -1,4 +1,6 @@
-﻿=====基于WordPress默认模板Twenty Sixteen修改=====
+﻿WordPress Theme Evolu by Http://x.betac.cc
+
+=====基于WordPress默认模板Twenty Sixteen修改=====
 
 自用模板，结合头像制作两种颜色样式，通过时间自动更换样式，让头像的完整样式在夜晚显现出来。
 
