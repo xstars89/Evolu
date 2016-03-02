@@ -19,7 +19,8 @@
 	<link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>">
 	<?php endif; ?>
 	<?php wp_head(); ?>
-	<link rel='stylesheet' href="<?php bloginfo('template_url'); ?>/css/style-one.css">
+	<link rel='stylesheet' href="<?php bloginfo('template_url'); ?>/mystyle.css">
+	<link rel='stylesheet' href="<?php bloginfo('template_url'); ?>/mystyle.js">
 </head>
 
 <body <?php body_class(); ?>>
